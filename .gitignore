@@ -1,0 +1,17 @@
+# Credenciales: NUNCA a GitHub
+.env
+*.pem
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
